@@ -14,3 +14,5 @@ This is my second project to create a Movie DB app similar to Apple TV iOS app u
 - Copy and Clone the project
 - Paste the API Key inside MovieService.swift
 - Build and run the project
+-  MVVM
+-  multi-task on it not for Beginner 
