@@ -6,8 +6,8 @@
 This is my second project to create a Movie DB app similar to Apple TV iOS app using TMDb API
 
 ## Requirement
-- Xcode 11
-- macOS Catalina 10.15
+- Xcode 
+- macOS Catalina 10.15 or above 
 - Register for API Key at https://themoviedb.org
 
 ## Getting Started
